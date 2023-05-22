@@ -1,0 +1,7 @@
+gspread
+gspread-dataframe
+pandas
+numpy
+pysnooper
+redbox
+redmail
